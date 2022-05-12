@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhacAMole</string>
+    <string name="game_rules">There are 6 holes in game. \nA mole can appear from any of them. \nTo win the game, click on the mole as many times as you can. \nYou will have 30 seconds to do that. \nGood luck!</string>
+</resources>

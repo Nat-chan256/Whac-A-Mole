@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="font_style">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/bullpen_italic</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="font_style_light">
+        <item name="android:textColor">@color/light_grey</item>
+        <item name="android:fontFamily">@font/bullpen_italic</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
